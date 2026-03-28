@@ -78,6 +78,3 @@ Output: Stylized image combining both
 
 This project demonstrates how deep neural networks can separate and recombine image content and style to create visually appealing outputs.
 
----
-
-If needed, I can also customize this for your exact notebook code or add sections like results, screenshots, or references.
